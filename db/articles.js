@@ -6,7 +6,7 @@ export let articles = [
     title: 'New upcoming NVIDIA GPU',
     subtitle: 'Nvidia may launch 3 new GPUs',
     published: '1/5/2023',
-    img: 'https://b.scdn.gr/images/sku_main_images/042517/42517168/20230519163235_nvidia_geforce_rtx_4060_ti_16gb_gddr6_karta_grafikon.jpeg',
+    img: '',
   },
   {
     id: 2,
